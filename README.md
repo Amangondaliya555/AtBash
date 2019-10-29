@@ -12,4 +12,4 @@ Steps:
 
 4.select the option wheater you want to decrypt or encrypt.
 
-5.Remaining steps are just a piece of cake.
+5.There are no remaining steps.
